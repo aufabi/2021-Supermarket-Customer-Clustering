@@ -1,2 +1,2 @@
-# 2021-Supermarket-Customer-Clustering
-A clustering project from data science bootcamp at PKS Digital School.
+# Supermarket Customer Clustering
+I applied the K Means model to cluster the supermarket customer data. I obtained that clustering the data into three groups is the best choice for this dataset.
